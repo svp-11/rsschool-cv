@@ -1,0 +1,14 @@
+## Personal Information
+
++ Name: Smalko Valery
++ Date of Birth: 31-08-1994
++ Location: Belarus, Gomel
++ Phone number: 375297391218
++ email: smalko9493@yandex.by
++ github: svp-11
+
+## About me:
+The Junior Front-end Developer position is a top priority for me. The inherent qualities for me are discipline, responsibility, stress resistance and perseverance. I have experience in solving specific problems and mastering a large amount of information in a short time.
+
+## Skills
+Python, Bash, html, css, JS, Git, MySQL.
