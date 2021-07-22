@@ -27,6 +27,7 @@ Python, Bash, html, css, JS, Git, MySQL.
         if(test.length == 0)return true;
         else return false;
     }
+
 ```
 ## Job
 System administrator (2018-2021)
