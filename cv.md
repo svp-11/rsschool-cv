@@ -28,3 +28,12 @@ Python, Bash, html, css, JS, Git, MySQL.
         else return false;
     }
 ```
+## Job
+System administrator (2018-2021)
+
+## Education and Courses
+Gomel State Technical University named after P.O. Sukhoi (2011-2016).
+Training Center "Specialist" at MSTU named after N.E.Bauman "HTML and CSS level 1".
+
+## English
+At the moment, I have a level of English proficiency of A2. I am continuing to study with a private teacher.
