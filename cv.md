@@ -14,7 +14,8 @@ The Junior Front-end Developer position is a top priority for me. The inherent q
 Python, Bash, html, css, JS, Git, MySQL.
 
 ## Code examples
-```var isAnagram = function(test, original) {
+```
+var isAnagram = function(test, original) {
     if (test.length != original.length) return false;
     original = original. toLowerCase();     
     test = test. toLowerCase().split("");
