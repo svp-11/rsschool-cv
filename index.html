@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Smalko Valery</h1>
+            <img id='avatar' src="ava.jpg" alt="avavtar">
+            <strong>
+                Life is a fight. Therefore, we have only two choices: win, lose.
+            </strong>
+        <cite ><br> Mustafa-Kemal-Atatjurk</cite>
+</header>
+
+<section class="personal left">
+    <h2>Personal Information</h2>
+    <ul>
+        <li>Date of Birth: 31-08-1994</li>
+        <li>Location: Belarus, Gomel</li>
+        <li>Phone number: 375297391218</li>
+        <li>smalko9493@yandex.by</li>
+        <li>github: svp-11</li>
+    </ul>
+</section>
+
+<article class="about left">
+    <h2>About me</h2>
+    The Junior Front-end Developer position is a top priority for me. The inherent qualities for me are discipline, responsibility, stress resistance and perseverance. I have experience in solving specific problems and mastering a large amount of information in a short time.
+</article>
+
+<section class="skills right">
+    <h2>Core skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>Bash</li>
+        <li>html</li>
+        <li>css</li>
+        <li>JS</li>
+        <li>Git</li>
+        <li>MySQL</li>
+    </ul>
+</section>
+
+<section class="code right">
+    <h2>Code examples</h2>
+    <pre>
+        let isAnagram = function(test, original) {
+            if (test.length != original.length) return false;
+            original = original. toLowerCase();     
+            test = test. toLowerCase().split("");
+                for(let i = 0; i < original.length; i++){
+                        if(test.indexOf(original[i],0) != -1) {
+                            test.splice(test.indexOf(original[i]),1);
+                            continue;
+                        }
+                }
+                if(test.length == 0)return true;
+                 else return false;
+            }
+    </pre>
+</section>
+
+<section class="job left">
+<h2>Job</h2>
+    System administrator (2018-2021)
+</section>
+
+<section class="edu left">
+    <h2>Education and Courses</h2>
+    Gomel State Technical University named after P.O. Sukhoi (2011-2016).
+    Training Center "Specialist" at MSTU named after N.E.Bauman "HTML and CSS level 1".
+</section>
+
+<section class="lang left">
+    <h2>English</h2>
+    At the moment, I have a level of English proficiency of A2. I am continuing to study with a private teacher.
+</section>
+
+<footer>
+<a href="https://rs.school/js/">
+    <img src="rs_school_js.svg" alt="rsshool logo">
+</a>
+<a href="https://github.com/svp-11">
+    <img src="github-logo-1024x1008.png" alt="github logo">
+</a>
+</footer>   
+</body>
+</html>
