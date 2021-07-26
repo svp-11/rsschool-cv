@@ -1,0 +1,60 @@
+body{
+    margin:0% 15% 0 15%;
+}
+header{
+    display: flex;
+    /*border: 1px solid black;*/
+}
+#avatar {
+    order: 1;
+    border: 2px solid rgb(100, 88, 88);
+    border-radius: 100%;
+}
+.header__name{
+    font-size: 24px;
+    order: 2;
+    /*border: 1px solid black;*/
+}
+.header__cite{
+    
+    order: 3;
+    /*border: 1px solid black;*/
+    border-radius: 5px;
+    background-color:rgb(255, 255, 255);
+    padding-right: 30%;
+}
+
+.block-second{
+    display: flex;
+}
+.block-second__pesonal-inform{
+    flex: 1;
+}
+.block-second__job{
+    flex: 1;
+    padding-left: 10px;
+}
+.block-second__lang{
+    flex: 1;
+}
+
+.block-third{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.block-second__about{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+}
+h2, h1, p{
+    text-align: center;
+}
+.block-fourth{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
